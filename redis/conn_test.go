@@ -25,6 +25,7 @@ import (
 	"testing"
 	"time"
 
+	"github.com/garyburd/redigo/redis"
 )
 
 type testConn struct {
