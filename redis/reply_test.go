@@ -19,7 +19,6 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/garyburd/redigo/redis"
 )
 
 type valueError struct {

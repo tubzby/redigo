@@ -22,7 +22,6 @@ import (
 	"testing"
 	"time"
 
-	"github.com/garyburd/redigo/redis"
 )
 
 type poolTestConn struct {

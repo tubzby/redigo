@@ -20,7 +20,6 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/garyburd/redigo/redis"
 )
 
 var scanConversionTests = []struct {
